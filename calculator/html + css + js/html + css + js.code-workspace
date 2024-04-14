@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../projects2 — копия/calculator/html + css + js"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html + css + js"
+	}
+}
